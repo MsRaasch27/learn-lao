@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.env
+learn-lao-8394d-firebase-adminsdk-w7adf-6f97d34e38.json
+myenv
+.venv
+.git

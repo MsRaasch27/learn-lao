@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+firebase-admin
+stripe
+python-dotenv
+cryptography
